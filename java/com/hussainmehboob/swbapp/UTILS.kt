@@ -19,6 +19,7 @@ class UTILS {
             val myIntent = Intent(context, calledActivity)
             myIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
             context.startActivity(myIntent)
+            //hello
         }
 
 
